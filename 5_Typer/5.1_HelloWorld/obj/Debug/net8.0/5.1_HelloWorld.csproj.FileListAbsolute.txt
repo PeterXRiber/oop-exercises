@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/bin/Debug/net8.0/5.1_HelloWorld
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/bin/Debug/net8.0/5.1_HelloWorld.deps.json
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/bin/Debug/net8.0/5.1_HelloWorld.runtimeconfig.json
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/bin/Debug/net8.0/5.1_HelloWorld.dll
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/bin/Debug/net8.0/5.1_HelloWorld.pdb
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.AssemblyInfo.cs
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.sourcelink.json
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.dll
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/refint/5.1_HelloWorld.dll
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.pdb
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/5.1_HelloWorld.genruntimeconfig.cache
+/home/ribz/oop-exercises/5_Typer/5.1_HelloWorld/obj/Debug/net8.0/ref/5.1_HelloWorld.dll

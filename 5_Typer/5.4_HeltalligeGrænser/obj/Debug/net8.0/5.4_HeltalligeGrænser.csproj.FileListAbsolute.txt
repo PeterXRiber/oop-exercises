@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/bin/Debug/net8.0/5.4_HeltalligeGrænser
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/bin/Debug/net8.0/5.4_HeltalligeGrænser.deps.json
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/bin/Debug/net8.0/5.4_HeltalligeGrænser.runtimeconfig.json
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/bin/Debug/net8.0/5.4_HeltalligeGrænser.dll
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/bin/Debug/net8.0/5.4_HeltalligeGrænser.pdb
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.AssemblyInfo.cs
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.sourcelink.json
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.dll
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/refint/5.4_HeltalligeGrænser.dll
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.pdb
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/5.4_HeltalligeGrænser.genruntimeconfig.cache
+/home/ribz/oop-exercises/5_Typer/5.4_HeltalligeGrænser/obj/Debug/net8.0/ref/5.4_HeltalligeGrænser.dll

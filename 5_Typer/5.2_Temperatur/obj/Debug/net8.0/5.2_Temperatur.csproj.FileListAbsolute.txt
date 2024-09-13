@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/bin/Debug/net8.0/5.2_Temperatur
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/bin/Debug/net8.0/5.2_Temperatur.deps.json
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/bin/Debug/net8.0/5.2_Temperatur.runtimeconfig.json
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/bin/Debug/net8.0/5.2_Temperatur.dll
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/bin/Debug/net8.0/5.2_Temperatur.pdb
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.AssemblyInfo.cs
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.sourcelink.json
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.dll
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/refint/5.2_Temperatur.dll
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.pdb
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/5.2_Temperatur.genruntimeconfig.cache
+/home/ribz/oop-exercises/5_Typer/5.2_Temperatur/obj/Debug/net8.0/ref/5.2_Temperatur.dll

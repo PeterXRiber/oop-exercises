@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/bin/Debug/net8.0/5.3_Måned
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/bin/Debug/net8.0/5.3_Måned.deps.json
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/bin/Debug/net8.0/5.3_Måned.runtimeconfig.json
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/bin/Debug/net8.0/5.3_Måned.dll
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/bin/Debug/net8.0/5.3_Måned.pdb
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.AssemblyInfo.cs
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.sourcelink.json
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.dll
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/refint/5.3_Måned.dll
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.pdb
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/5.3_Måned.genruntimeconfig.cache
+/home/ribz/oop-exercises/5_Typer/5.3_Måned/obj/Debug/net8.0/ref/5.3_Måned.dll

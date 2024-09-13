@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/bin/Debug/net8.0/5.5_Casting
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/bin/Debug/net8.0/5.5_Casting.deps.json
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/bin/Debug/net8.0/5.5_Casting.runtimeconfig.json
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/bin/Debug/net8.0/5.5_Casting.dll
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/bin/Debug/net8.0/5.5_Casting.pdb
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.AssemblyInfo.cs
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.sourcelink.json
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.dll
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/refint/5.5_Casting.dll
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.pdb
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/5.5_Casting.genruntimeconfig.cache
+/home/ribz/oop-exercises/5_Typer/5.5_Casting/obj/Debug/net8.0/ref/5.5_Casting.dll
