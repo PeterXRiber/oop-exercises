@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/bin/Debug/net8.0/11.4_StørstIArray
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/bin/Debug/net8.0/11.4_StørstIArray.deps.json
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/bin/Debug/net8.0/11.4_StørstIArray.runtimeconfig.json
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/bin/Debug/net8.0/11.4_StørstIArray.dll
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/bin/Debug/net8.0/11.4_StørstIArray.pdb
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.AssemblyInfo.cs
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.sourcelink.json
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.dll
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/refint/11.4_StørstIArray.dll
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.pdb
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/11.4_StørstIArray.genruntimeconfig.cache
+/home/ribz/oop-exercises/11_Arrays/11.4_StørstIArray/obj/Debug/net8.0/ref/11.4_StørstIArray.dll

@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/bin/Debug/net8.0/7.3 Celcius til Fahrenheit
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/bin/Debug/net8.0/7.3 Celcius til Fahrenheit.deps.json
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/bin/Debug/net8.0/7.3 Celcius til Fahrenheit.runtimeconfig.json
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/bin/Debug/net8.0/7.3 Celcius til Fahrenheit.dll
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/bin/Debug/net8.0/7.3 Celcius til Fahrenheit.pdb
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.AssemblyInfo.cs
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.sourcelink.json
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.dll
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/refint/7.3 Celcius til Fahrenheit.dll
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.pdb
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/7.3 Celcius til Fahrenheit.genruntimeconfig.cache
+/home/ribz/oop-exercises/7_Variable/7.3 Celcius til Fahrenheit/obj/Debug/net8.0/ref/7.3 Celcius til Fahrenheit.dll

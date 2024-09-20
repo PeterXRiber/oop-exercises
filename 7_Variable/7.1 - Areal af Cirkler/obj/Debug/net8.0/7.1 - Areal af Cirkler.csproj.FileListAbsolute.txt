@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/bin/Debug/net8.0/7.1 - Areal af Cirkler
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/bin/Debug/net8.0/7.1 - Areal af Cirkler.deps.json
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/bin/Debug/net8.0/7.1 - Areal af Cirkler.runtimeconfig.json
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/bin/Debug/net8.0/7.1 - Areal af Cirkler.dll
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/bin/Debug/net8.0/7.1 - Areal af Cirkler.pdb
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.AssemblyInfo.cs
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.sourcelink.json
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.dll
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/refint/7.1 - Areal af Cirkler.dll
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.pdb
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/7.1 - Areal af Cirkler.genruntimeconfig.cache
+/home/ribz/oop-exercises/7_Variable/7.1 - Areal af Cirkler/obj/Debug/net8.0/ref/7.1 - Areal af Cirkler.dll

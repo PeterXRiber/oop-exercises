@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/bin/Debug/net8.0/7.5 Inkrementering af Måned
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/bin/Debug/net8.0/7.5 Inkrementering af Måned.deps.json
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/bin/Debug/net8.0/7.5 Inkrementering af Måned.runtimeconfig.json
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/bin/Debug/net8.0/7.5 Inkrementering af Måned.dll
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/bin/Debug/net8.0/7.5 Inkrementering af Måned.pdb
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.AssemblyInfo.cs
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.sourcelink.json
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.dll
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/refint/7.5 Inkrementering af Måned.dll
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.pdb
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/7.5 Inkrementering af Måned.genruntimeconfig.cache
+/home/ribz/oop-exercises/7_Variable/7.5 Inkrementering af Måned/obj/Debug/net8.0/ref/7.5 Inkrementering af Måned.dll

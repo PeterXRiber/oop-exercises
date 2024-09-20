@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/bin/Debug/net8.0/7.8 Gennemsnitlig Alder
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/bin/Debug/net8.0/7.8 Gennemsnitlig Alder.deps.json
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/bin/Debug/net8.0/7.8 Gennemsnitlig Alder.runtimeconfig.json
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/bin/Debug/net8.0/7.8 Gennemsnitlig Alder.dll
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/bin/Debug/net8.0/7.8 Gennemsnitlig Alder.pdb
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.AssemblyInfo.cs
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.sourcelink.json
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.dll
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/refint/7.8 Gennemsnitlig Alder.dll
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.pdb
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/7.8 Gennemsnitlig Alder.genruntimeconfig.cache
+/home/ribz/oop-exercises/7_Variable/7.8 Gennemsnitlig Alder/obj/Debug/net8.0/ref/7.8 Gennemsnitlig Alder.dll
