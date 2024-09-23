@@ -22,6 +22,7 @@ long currentDaysInSeconds = 267 * secondsInADay;
 
 
 long currentDays = currentDaysInSeconds / secondsInADay;
+long christmas = 359;
 
 long secondsSinceNewyear = 267 * secondsInADay;
 long secondsToMonth = secondsSinceNewyear/86400;
@@ -36,13 +37,16 @@ long currentDayInMonth = secondsSinceNewYearInDays - month;
 if (secondsSinceNewYearInDays > 240 && secondsSinceNewYearInDays < 269) {
 	month = August;
 	Console.WriteLine("The current month is September " + secondsSinceNewYearInDays);
-	Console.WriteLine("The current day of the month: "+ (currentDays - month));
+	Console.WriteLine("The current amount of days: " + (currentDays - month));
 } 	else if (secondsSinceNewYearInDays > 0 && secondsSinceNewYearInDays < 30) {
 	Console.WriteLine("The current month is January");
 } 	else if (secondsSinceNewYearInDays == 354) {
 		Console.WriteLine("Merry Christmas!");
-	}
-		
+	} 
+	
+if (secondsSinceNewYearInDays != 354) {
+		Console.WriteLine("Christmas will arrive in: " + (christmas - currentDays) + " days");
+	}	
 
 // 26. sep 
 // Find en måde at vise måneder på. Gerne i et interval. Hvis current day er mellem disse måneders værdi, print hvilken måned det er + dagen 

@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/bin/Debug/net8.0/9.2_EpochDiff
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/bin/Debug/net8.0/9.2_EpochDiff.deps.json
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/bin/Debug/net8.0/9.2_EpochDiff.runtimeconfig.json
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/bin/Debug/net8.0/9.2_EpochDiff.dll
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/bin/Debug/net8.0/9.2_EpochDiff.pdb
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.AssemblyInfo.cs
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.sourcelink.json
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.dll
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/refint/9.2_EpochDiff.dll
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.pdb
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/9.2_EpochDiff.genruntimeconfig.cache
+/home/ribz/oop-exercises/9_Branches/9.2_EpochDiff/obj/Debug/net8.0/ref/9.2_EpochDiff.dll
