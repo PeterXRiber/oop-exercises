@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/bin/Debug/net8.0/9.4_LængdenAfEnMåned
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/bin/Debug/net8.0/9.4_LængdenAfEnMåned.deps.json
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/bin/Debug/net8.0/9.4_LængdenAfEnMåned.runtimeconfig.json
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/bin/Debug/net8.0/9.4_LængdenAfEnMåned.dll
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/bin/Debug/net8.0/9.4_LængdenAfEnMåned.pdb
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.AssemblyInfo.cs
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.sourcelink.json
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.dll
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/refint/9.4_LængdenAfEnMåned.dll
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.pdb
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/9.4_LængdenAfEnMåned.genruntimeconfig.cache
+/home/ribz/oop-exercises/9_Branches/9.4_LængdenAfEnMåned/obj/Debug/net8.0/ref/9.4_LængdenAfEnMåned.dll
