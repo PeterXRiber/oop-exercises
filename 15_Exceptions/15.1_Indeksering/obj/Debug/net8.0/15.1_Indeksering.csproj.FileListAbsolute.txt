@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/bin/Debug/net8.0/15.1_Indeksering
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/bin/Debug/net8.0/15.1_Indeksering.deps.json
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/bin/Debug/net8.0/15.1_Indeksering.runtimeconfig.json
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/bin/Debug/net8.0/15.1_Indeksering.dll
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/bin/Debug/net8.0/15.1_Indeksering.pdb
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.AssemblyInfo.cs
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.sourcelink.json
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.dll
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/refint/15.1_Indeksering.dll
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.pdb
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/15.1_Indeksering.genruntimeconfig.cache
+/home/ribz/oop-exercises/15_Exceptions/15.1_Indeksering/obj/Debug/net8.0/ref/15.1_Indeksering.dll
