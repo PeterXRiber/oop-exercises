@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/bin/Debug/net8.0/9.3_Juleudsalg
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/bin/Debug/net8.0/9.3_Juleudsalg.deps.json
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/bin/Debug/net8.0/9.3_Juleudsalg.runtimeconfig.json
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/bin/Debug/net8.0/9.3_Juleudsalg.dll
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/bin/Debug/net8.0/9.3_Juleudsalg.pdb
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.AssemblyInfo.cs
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.sourcelink.json
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.dll
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/refint/9.3_Juleudsalg.dll
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.pdb
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/9.3_Juleudsalg.genruntimeconfig.cache
+/home/ribz/oop-exercises/9_Branches/9.3_Juleudsalg/obj/Debug/net8.0/ref/9.3_Juleudsalg.dll

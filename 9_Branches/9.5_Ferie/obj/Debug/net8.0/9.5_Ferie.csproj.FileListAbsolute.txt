@@ -1,0 +1,15 @@
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/bin/Debug/net8.0/9.5_Ferie
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/bin/Debug/net8.0/9.5_Ferie.deps.json
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/bin/Debug/net8.0/9.5_Ferie.runtimeconfig.json
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/bin/Debug/net8.0/9.5_Ferie.dll
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/bin/Debug/net8.0/9.5_Ferie.pdb
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.GeneratedMSBuildEditorConfig.editorconfig
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.AssemblyInfoInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.AssemblyInfo.cs
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.csproj.CoreCompileInputs.cache
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.sourcelink.json
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.dll
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/refint/9.5_Ferie.dll
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.pdb
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/9.5_Ferie.genruntimeconfig.cache
+/home/ribz/oop-exercises/9_Branches/9.5_Ferie/obj/Debug/net8.0/ref/9.5_Ferie.dll
